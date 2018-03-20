@@ -14,9 +14,8 @@
 | 8h00 - 8h30 | Breakfast Meet and Greet |
 | 8h30 - 9h00 | Welcome and Introductions |
 | 9h00 - 9h15 | Intro to Root |
-| 9h15- 9h30 | DialogFlow overview |
-| 9h30 - 10h00 | Break and teaming up |
-| 10h00 - 12h30 | Work on Bots |
+| 9h15 - 09h45 | Break and teaming up |
+| 09h45 - 12h30 | Work on Bots |
 | 12h30 - 13h00 | Lunch |
 | 13h00 - 16h30 | Work on Bots |
 | 16h30 - 18h00 | Group discussion about learning & drinks|
